@@ -2,7 +2,7 @@
 
 This is a crypto research project.
 
-We implemente a differential private (DP) messaging system using NFV technique, supervised by Professor [Arkady Yerukhimovich](https://www2.seas.gwu.edu/~arkady/) at George Washington University. It is inspired by existing researches in the field like [Vuvuzela](https://www.freehaven.net/anonbib/cache/vuvuzela:sosp15.pdf), [Stadium](https://eprint.iacr.org/2016/943.pdf), and [Karaoke](https://people.csail.mit.edu/nickolai/papers/lazar-karaoke.pdf).
+We implemente a differential private (DP) messaging system using NFV technique, at George Washington University with Professor [Arkady Yerukhimovich](https://www2.seas.gwu.edu/~arkady/) . It is inspired by existing researches in the field like [Vuvuzela](https://www.freehaven.net/anonbib/cache/vuvuzela:sosp15.pdf), [Stadium](https://eprint.iacr.org/2016/943.pdf), and [Karaoke](https://people.csail.mit.edu/nickolai/papers/lazar-karaoke.pdf).
 
 ## Motivation
 
