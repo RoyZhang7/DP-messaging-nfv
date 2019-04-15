@@ -15,8 +15,7 @@
 | Usability improvements   |
 | Bug fixes                |
 | New functionality        |
-| New NF/onvm_mgr args     |
-| Changes to starting NFs  |
+| New args                 |
 | Dependency updates       |
 | Web stats updates        |
 

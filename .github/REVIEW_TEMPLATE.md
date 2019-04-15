@@ -4,11 +4,11 @@
 
 - Sanity checks, assigned to @
 
-  - Run make in `/onvm` and `/examples` directories
+  - Run make in `./something-to-be-replaced` directories
   - Test new functionality or bug fix from the pr (if needed)
 
 - Code style, assigned to @
-  - Run linter
+  - Run linter (TODO)
   - Check everything style related
 
 - Code design, assigned to @
@@ -18,9 +18,7 @@
   - Verify that edge cases properly handled
 
 - Performance, assigned to @
-  - Run Speed Tester NF, report performance.
-  - Run pktgen, report performance (if needed)
-  - Run mTCP epserver, verify wget works, report performance for epwget/ab (if needed)
+  - Run pressure testing tool (TODO), report performance (if needed)
 
 - Documentation, assigned to @
   - Check if the new changes are well documented, in both code and READMEs
