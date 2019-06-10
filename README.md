@@ -4,6 +4,8 @@ This is a crypto research project.
 
 We implemente a differential private (DP) messaging system using NFV technique, at George Washington University with Professor [Arkady Yerukhimovich](https://www2.seas.gwu.edu/~arkady/) . It is inspired by existing researches in the field like [Vuvuzela](https://www.freehaven.net/anonbib/cache/vuvuzela:sosp15.pdf), [Stadium](https://eprint.iacr.org/2016/943.pdf), and [Karaoke](https://people.csail.mit.edu/nickolai/papers/lazar-karaoke.pdf).
 
+The testing enviorment is on [CloudLab](https://cloudlab.us/), to which we specially want to say THANK YOU!
+
 ## Motivation
 
 As the dead-drop protocol was introduced by Vuvuzela, researches in differential private messaging has been becoming more active and more "private". However, limitations in current systems make them hard to use. The major limitation is high latency and high deployment cost.
@@ -31,4 +33,4 @@ Another interesting result is we found a mistake in Stadium's implementation, wh
 Looking to finish one of the directions of new privacy protocol, then we will publish a paper.
 
 ---
-The testing enviorment is on [CloudLab](https://cloudlab.us/), to which we specially want to say THANK YOU!
+The code is not up to date. We are going to publish a paper this year, and will release code then.
