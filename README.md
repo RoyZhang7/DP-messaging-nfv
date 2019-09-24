@@ -32,9 +32,7 @@ Another interesting result is we found a mistake in Stadium's implementation, wh
 ## Todo
 
 - [ ] Meet-in-middle privacy protocol
-- [ ] Topology-based privacy protocol
 - [ ] TCP-based transmission (low priority)
 - [ ] Fault Tolerance (low priority)
 
-Planning to finish one of above directions, then we will publish a paper.
-a
+Planning to finish one of above directions, then I will publish a paper.
