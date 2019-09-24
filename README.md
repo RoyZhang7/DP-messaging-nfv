@@ -1,9 +1,8 @@
-
 ---
-**This project is an internal research project. I decided not to release code since I am not publishing a paper on this. Presentation slide contains enough explanation, see next section.**
 
-**If you are interested in it, or have any question related to NFV or differential privacy, feel free to email me. If necessary, I can share code.**
----
+* This project is an internal research project. I decided not to release code since I am not publishing a paper on this. 
+* Presentation slide contains enough explanation, see next section. 
+* If you are interested in it, or have any question related to NFV or differential privacy, feel free to open an issue or directly email me. If necessary, I can share code.
 
 # DP-messaging-nfv
 
@@ -38,3 +37,4 @@ Another interesting result is we found a mistake in Stadium's implementation, wh
 - [ ] Fault Tolerance (low priority)
 
 Planning to finish one of above directions, then we will publish a paper.
+a
