@@ -1,3 +1,10 @@
+
+---
+**This project is an internal research project. I decided not to release code since I am not publishing a paper on this. Presentation slide contains enough explanation, see next section.**
+
+**If you are interested in it, or have any question related to NFV or differential privacy, feel free to email me. If necessary, I can share code.**
+---
+
 # DP-messaging-nfv
 
 This is a crypto research project.
@@ -31,14 +38,3 @@ Another interesting result is we found a mistake in Stadium's implementation, wh
 - [ ] Fault Tolerance (low priority)
 
 Planning to finish one of above directions, then we will publish a paper.
-
-## Usage
-
-**Not available for general user yet.**
-
-I will provide intruction on other system/platform on the planned releasing.
-
-This project requires installation of OpenNetVM(including DPDK). The easiest way to use it is creating a cluster with CloudLab profile.(strict to authroized academic user in US only).
-
----
-The code is not up to date. We are going to publish a paper this year, and will release code then.
